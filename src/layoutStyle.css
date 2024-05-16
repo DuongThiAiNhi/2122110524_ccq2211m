@@ -1,0 +1,22 @@
+
+.container-fluid
+{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-md-3
+{
+    margin-top: 13px;
+}
+.col-md-2
+{
+    margin-top: 35px;
+    column-gap: 100px;
+}
+
+

@@ -1,0 +1,30 @@
+{
+    "products":[
+        {"ten":"giay 1","gia":"250000"},
+        {"ten":"giay 2","gia":"250000"},
+        {"ten":"giay 3","gia":"250000"},
+        {"ten":"giay 4","gia":"250000"},
+        {"ten":"giay 5","gia":"250000"}
+    ],
+    "categorys":[
+        {"ten":"giay 1","gia":"250000"},
+        {"ten":"giay 2","gia":"250000"},
+        {"ten":"giay 3","gia":"250000"},
+        {"ten":"giay 4","gia":"250000"},
+        {"ten":"giay 5","gia":"250000"}
+    ],
+    "menus":[
+        {"ten":"giay 1","gia":"250000"},
+        {"ten":"giay 2","gia":"250000"},
+        {"ten":"giay 3","gia":"250000"},
+        {"ten":"giay 4","gia":"250000"},
+        {"ten":"giay 5","gia":"250000"}
+    ],
+    "sliders":[
+        {"ten":"giay 1","gia":"250000"},
+        {"ten":"giay 2","gia":"250000"},
+        {"ten":"giay 3","gia":"250000"},
+        {"ten":"giay 4","gia":"250000"},
+        {"ten":"giay 5","gia":"250000"}
+    ]
+} 
